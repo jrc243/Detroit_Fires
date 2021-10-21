@@ -1,4 +1,5 @@
 # Detroit Fires
-Visualization of Detroit Fires from 09/20/16 - 8/19/21:
-https://public.tableau.com/app/profile/joel.cloutier/viz/Detroit_Fires/DetroitFires?publish=yes
+Visualization of Detroit Fires from August, 2016 - August, 2021:
+https://public.tableau.com/app/profile/joel.cloutier/viz/Detroit_Fires_dashboard/DIntropage?publish=yes
+
 
